@@ -23,7 +23,7 @@ https://sybil-v-zakone.notion.site/sybil-v-zakone/starknet-py-578a3b2fb96e49149a
 
 1. `cd путь/к/проекту`
 2. `python3 -m venv venv`
-3. MacOS/Linux `source venv/bin/activate`
+3. `source venv/bin/activate`
 4. `pip install -r requirements.txt`
 
 ### Конфигурация:
